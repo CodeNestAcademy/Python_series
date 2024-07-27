@@ -1,0 +1,24 @@
+Q-1:Write a Python program that asks the user for their name and age, then prints a message saying how old they will be in 5 years.
+
+
+Q-2:Write a Python program that takes two numbers from the user  and prints their sum, difference, product, and division.
+
+Q-3:Write a Python program that swaps the values of two variables without using a third variable.
+
+Q-4: Write a Python program that asks the user for the length and width of a rectangle and calculates the perimeter.
+
+Q-5: Write a Python program that calculates simple interest using the formula (𝑆𝐼=𝑃×𝑅×𝑇)/100 where P is the principal amount, R is the rate of interest, and T is the time.
+
+
+
+
+
+
+
+Home work Questions:
+Q-1:Write a Python program that takes a number from the user and prints its square.
+Q-2:Write a Python program that asks the user for three numbers and calculates their average.
+Q-3:Write a Python program that asks the user for a word and a number, then prints the word repeated that many times.
+Q-4:Write a Python program that converts a temperature from Celsius to Fahrenheit 
+Q-5:Write a Python program that asks the user for the radius of a circle and calculates the area 
+
